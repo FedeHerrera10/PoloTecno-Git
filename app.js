@@ -1141,12 +1141,12 @@ const female_names = [
 	'Cinnamon',
 	'Cissie',
 ];
-const nicknames = [male_names, female_names];
+const NICKNAMES = [male_names, female_names];
 let eleccion = 0;
 
 $button.addEventListener('click', () => {
-	const index = Math.floor(Math.random() * (nicknames[eleccion].length - 1));
-	let nickname = `@${nicknames[eleccion][index]}${index}`;
+	const index = Math.floor(Math.random() * (NICKNAMES[eleccion].length - 1));
+	let nickname = `@${NICKNAMES[eleccion][index]}${index}`;
 	$nickname.innerText = nickname;
 });
 $button_masculino.addEventListener('click', () => {
