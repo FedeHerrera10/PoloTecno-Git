@@ -2,7 +2,7 @@
 
 Repositorio del modulo de Git - PoloTecno UNLaR
 
-![2021-02-23-09-19-localhost](https://user-images.githubusercontent.com/26462775/108843004-df8e2880-75b8-11eb-9f38-c95c9d5a246c.png)
+![2021-02-23-09-19-localhost](https://i.ibb.co/3T9Ncsj/polotecno.png)
 
 # Descripcion
 
